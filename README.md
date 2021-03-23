@@ -1,7 +1,8 @@
 # Eye-Exercise
 
 NAME: Eye Assignment
-DESCRIPTION: Eye Coding Assignment from MITxPRO
+DESCRIPTION: Eye Coding Assignment from MITxPRO. This assignment allowed me to create a depicition of two eyes using a single eye image. The eyes follow the mouse once it is hovered over.
+
 INSTALLATION:
 To install, download all files to the same directory folder, maintainging the existing folder structure.
 
